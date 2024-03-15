@@ -1,18 +1,18 @@
 {
-  "name": "nuxeo/nuxeo-php-client",
+  "name": "valockar/nuxeo-php-client",
   "description": "PHP Client Library for the Nuxeo Automation API",
   "keywords": ["nuxeo", "automation", "client"],
   "homepage": "http://www.nuxeo.com",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Pierre-Gildas MILLON",
-      "email": "pgmillon@nuxeo.com"
+      "name": "Jonathan PIEC",
+      "email": "valockar@gmail.com"
     }
   ],
   "extra": {
     "branch-alias": {
-      "dev-master": "3.0-dev"
+      "dev-master": "3.0.3-dev"
     }
   },
   "require": {
